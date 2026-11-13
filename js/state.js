@@ -1,0 +1,1 @@
+export const state={coins:100,diamonds:10,unlockedChapter:1,chapterStars:{1:0,2:0,3:0},chapterLevels:{1:0,2:0,3:0},chapterLevelStars:{1:{},2:{},3:{}},currentChapter:1,currentLevel:1,score:0,combo:0,lastDeliveryAt:0,customers:[],activeOrder:null,phase:'idle',selectedOmo:'blue',washerCount:2,completed:0,missed:0,roundLeft:90,paused:false,boostUntil:0};

@@ -1,0 +1,1 @@
+Asset source: user-provided laundry-rush-v5.zip. Image content has been preserved; filenames and folders normalized to ASCII paths. Audio assets omitted because all supplied MP3 files were 10 bytes and invalid.
